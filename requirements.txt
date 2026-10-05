@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+python-dotenv
+transformers
+torch
+beautifulsoup4
+trafilatura
+lxml
